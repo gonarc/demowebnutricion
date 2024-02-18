@@ -125,6 +125,7 @@ p,
   border-left: solid 1px #81818127;
 }
 #banner img {
+  width: 39rem;
   border-radius: 8px;
 }
 #containerBotones {
@@ -132,7 +133,7 @@ p,
   justify-content: start;
   align-items: center;
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 .cta_primera_pagina {
   background: rgb(145,105,252);
@@ -191,10 +192,9 @@ p,
 /*APARECE EN*/
 .aparece_en {
   display: flex;
-  justify-content: space-around;
   align-items: center;
-  padding: 50px 0px;
-  margin-bottom: 60px;
+  gap: 12px;
+  margin-bottom: 25px;
 }
 .aparece_en img {
   width: 8%;
@@ -202,8 +202,8 @@ p,
 }
 #parrafo_aparece_en {
   margin: 0px 0px;
-  margin-bottom: 30px;
-  font-size: 21px;
+  margin-bottom:12.5px;
+  font-size: 16px;
   font-weight: 800;
   background: radial-gradient(#9169fc, #51399F);
 
@@ -928,7 +928,6 @@ p,
   }
   .aparece_en img {
     width: 18%;
-    margin: 0px;
   }
 
 
