@@ -190,11 +190,11 @@ p,
 .aparece_en {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 5px;
   margin-bottom: 25px;
 }
 .aparece_en img {
-  width: 8%;
+  width: 7%;
   border-radius: 100%;
 }
 #parrafo_aparece_en {
